@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name": "Product 1",
+        "price": 520,
+        "image": "wtoy.webp"
+    },
+    {
+        "id": 2,
+        "name": "Product 2",
+        "price": 720,
+        "image": "wtoy2.webp"
+    },
+    {
+        "id": 3,
+        "name": "Product 3",
+        "price": 250,
+        "image": "pot2.webp"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "Product 4",
+        "price": 620,
+        "image": "cloth.webp"
+    },
+    {
+        "id": 5,
+        "name": "Product 5",
+        "price": 730,
+        "image": "wtoy3.webp"
+    },
+    {
+        "id": 6,
+        "name": "Product 6",
+        "price": 320,
+        "image": "pot3.webp"
+    }
+]
